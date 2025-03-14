@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/my_primary_night</item>
+        <item name="colorPrimaryVariant">@color/my_primary_night</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/my_secondary_night</item>
+        <item name="colorSecondaryVariant">@color/my_secondary_night</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/background_color_night</item>
+        <item name="colorSurface">@color/surface_color_night</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/text_color_primary_night</item>
+        <item name="android:textColorSecondary">@color/text_color_secondary_night</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/my_primary_night</item>
+    </style>
+</resources>

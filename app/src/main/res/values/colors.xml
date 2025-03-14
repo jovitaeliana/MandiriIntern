@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ripple_color">#1F000000</color>
+
+    <!-- Light theme colors -->
+    <color name="my_primary">#003D79</color>
+    <color name="my_secondary">#FFB700</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_color_secondary">#757575</color>
+
+    <!-- Dark theme colors -->
+    <color name="my_primary_night">#0A2647</color>
+    <color name="my_secondary_night">#FFD700</color>
+    <color name="background_color_night">#14141B</color>
+    <color name="surface_color_night">#1E1E1E</color>
+    <color name="card_background_night">#2C2C2C</color>
+    <color name="text_color_primary_night">#FFFFFF</color>
+    <color name="text_color_secondary_night">#CCCCCC</color>
+    <color name="ripple_color_night">#33FFFFFF</color>
+</resources>
